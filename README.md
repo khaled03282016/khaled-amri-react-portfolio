@@ -1,4 +1,4 @@
-# React/Redux/Router Starter Project
+# khaled amri recat portfolio project
 
 > Provided for the students of the [Bottega Code School](https://bottega.tech/)
 
